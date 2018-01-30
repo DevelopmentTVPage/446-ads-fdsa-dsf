@@ -1,0 +1,15 @@
+{
+    "title": "asdf",
+    "baseURL": "https:\/\/ads.fdsa.dsf",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758403",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "fdsa.dsf"
+    }
+}
